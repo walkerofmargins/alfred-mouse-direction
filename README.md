@@ -8,11 +8,12 @@ Simple Alfred Workflow using Applescript
 
 Useful for moving from trackpad to mouse scrolling, which can be difficult when first switching between mouse and trackpad
 
-Command:
+# Command:
 'scroll'
 
-'m'or 'mouse'
+# Inputs
+*m* or *mouse*
 Changes the direction to reverse
 
-'t'or 'trackpad'
+*t* or *trackpad*
 Changes the direction to natural
